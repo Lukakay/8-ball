@@ -8,12 +8,12 @@
         In Landscape mode, the values X and Y are inverted
 
         Portrait:
-        Device Width: X => 1080
-        Device Height: Y => 1920
+        Device Width: X => 720
+        Device Height: Y => 1520
 
         Landscape:
-        Device Width: X => 1920
-        Device Height: Y => 1080
+        Device Width: X => 1520
+        Device Height: Y => 720
 
         Find the dimensions of your device in MainActivity ( DEBUG )
 
